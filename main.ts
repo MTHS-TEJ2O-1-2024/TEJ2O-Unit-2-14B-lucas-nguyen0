@@ -2,7 +2,7 @@
  *
  * Created by: Lucas Nguyen
  * Created on: Dec 2024
- * This program makes a sprite go clockwise and counterclockwise around the perimeter of a microbit.
+ * This program makes a sprite go clockwise and counterclockwise around the perimeter of a microbit. 
 */
 
 // variables
