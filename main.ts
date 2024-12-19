@@ -2,7 +2,7 @@
  *
  * Created by: Lucas Nguyen
  * Created on: Dec 2024
- * This program makes a dprite go clockwise and counterclockwise around the perimeter of a microbit.
+ * This program makes a sprite go clockwise and counterclockwise around the perimeter of a microbit.
 */
 
 // variables
@@ -20,7 +20,7 @@ input.onButtonPressed(Button.A, function () {
     loopCounter = 0
     sprite = game.createSprite(0, 0)
 
-    // pixel moves horizontally to the right from 0,0
+    // pixel moves horizontally to the right from 0,0 
     loopCounter = 0
     while (loopCounter <= 5) {
         sprite.set(LedSpriteProperty.X, loopCounter)
